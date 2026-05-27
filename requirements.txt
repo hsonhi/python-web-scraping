@@ -1,6 +1,5 @@
 pandas
 numpy
-serpapi
 requests
 selenium
 webdriver-manager
