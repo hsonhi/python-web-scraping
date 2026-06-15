@@ -1,4 +1,4 @@
-## Python Web Scraping with Selenium
+## Web scraping with Python, Selenium, and Pandas
 
 Scrape and extract job data from a job listing website using Selenium and store in Excel using Pandas DataFrame.
 
